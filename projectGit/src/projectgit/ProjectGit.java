@@ -5,6 +5,8 @@
  */
 package projectgit;
 
+package projectgit;
+
 import java.util.Scanner;
 
 
